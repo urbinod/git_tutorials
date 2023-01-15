@@ -27,16 +27,22 @@
   $ cd foldername
 ```
 
-### step 3 (Create new file from terminal using touch)
+### step 4 (Create new file from terminal using touch)
 
 ```http
   $ touch product.html
 ```
 
-### step 6 (Now we need to commit - Save the snapshot of the file)
+### step 5 (Now we need to commit - Save the snapshot of the file)
 
 ```http
   $ git commit -m "message"
+```
+
+### step 6 (Now we need to commit - commit all files)
+
+```http
+  $ git commit -am "message"
 ```
 
 ### step 7 (To see what is currently happening in my git repository)
