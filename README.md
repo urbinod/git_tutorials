@@ -72,3 +72,9 @@
 ```http
   $ git reset
 ```
+
+## Branching
+
+| Command    | Description                                             |
+| ---------- | ------------------------------------------------------- |
+| git branch | List branches (the asterisk denotes the current branch) |
