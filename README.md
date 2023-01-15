@@ -82,6 +82,7 @@
 | git branch                                         | List branches (the asterisk denotes the current branch). To get out, press Q |
 | git branch -a                                      | List all branches (local and remote)                                         |
 | git branch [branch name]                           | Create a new branch                                                          |
+| git checkout -b [new branch name]                  | Create a new branch and move to that branch                                  |
 | git branch -d [branch name]                        | Delete a branch                                                              |
 | git push origin --delete [branch name]             | Delete a remote branch                                                       |
 | git checkout -b [branch name] origin/[branch name] | Clone a remote branch and switch to it                                       |
@@ -93,3 +94,6 @@
 | git merge [source branch] [target branch]          | Merge a branch into a target branch                                          |
 | git stash                                          | Stash changes in a dirty working directory                                   |
 | git stash clear                                    | Remove all stashed entries                                                   |
+|                                                    |                                                                              |
+
+| git push --set-upstream origin dev_binod | git push from new branch |
