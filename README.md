@@ -31,6 +31,7 @@
 
 ```http
   $ touch product.html
+  $ git add <filename>
 ```
 
 ### step 5 (Now we need to commit - Save the snapshot of the file)
