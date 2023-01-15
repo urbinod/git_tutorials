@@ -95,6 +95,4 @@
 | git merge [source branch] [target branch]          | Merge a branch into a target branch                                          |
 | git stash                                          | Stash changes in a dirty working directory                                   |
 | git stash clear                                    | Remove all stashed entries                                                   |
-|                                                    |                                                                              |
-
-| git push --set-upstream origin dev_binod | git push from new branch |
+| git push --set-upstream origin dev_binod           | git push from new branch                                                     |
