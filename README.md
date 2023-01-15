@@ -45,7 +45,13 @@
   $ git status
 ```
 
-### step 8 (Now we need to commit - Save the snapshot of the file)
+### step 8 (check whether the your branch is up to date to master before push)
+
+```http
+  $ git pull
+```
+
+### step 9 (Now we need to commit - Save the snapshot of the file)
 
 ```http
   $ git push
