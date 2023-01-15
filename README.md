@@ -62,3 +62,13 @@
 ```http
   $ git push
 ```
+
+#### When someone changes the same file eg: product.html and you are modifying the same file when we git pull, we will have conflict. Make change in conflict file to which file you wants and commit the file as $ git commit -am “messge” and git push
+
+#### git log (show the list of commit id , author, date, who have added)
+
+#### git reset (Git reset in effect will take the current state of the repository and revert it back to an older state of the repository)
+
+```http
+  $ git reset
+```
