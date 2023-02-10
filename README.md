@@ -28,11 +28,11 @@
 ```
 
 ### step 4 (Create new file from terminal using touch)
-
+```
   <p>$ touch product.html</p>
   <p> $ git add <filename></p>
   <p> $ git add . (To add all files) </p>
-
+```
 ### step 5 (Now we need to commit - Save the snapshot of the file)
 
 ```http
