@@ -10,7 +10,7 @@
 
 ### step 1 (Download into my local from internet repository (git clone <url>)
 
-```http
+```
   git clone https://github.com/urbinod/git_command_tutorials.git
 
 ```
@@ -29,9 +29,9 @@
 
 ### step 4 (Create new file from terminal using touch)
 ```
-  <p>$ touch product.html</p>
-  <p> $ git add <filename></p>
-  <p> $ git add . (To add all files) </p>
+  $ touch product.html
+  $ git add <filename>
+  $ **git add .** (To add all files)
 ```
 ### step 5 (Now we need to commit - Save the snapshot of the file)
 
